@@ -4,6 +4,8 @@ class Item():
         self.name = name
         self.price = price
 
-    
+class ShoppingCart():
+    def __init__(self):
+        pass        
 
 
